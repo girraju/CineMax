@@ -25,12 +25,8 @@ Cinemax is designed to provide users with easy access to a vast selection of mov
 
 ## Demo Video
 
-<p align="center">
-  <video width="600" controls>
-    <source src="DEMO.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/girraju/CineMax/assets/172365507/6bf516c5-1b2d-4db9-8612-308662fa606c
+
 
 ## Features
 
