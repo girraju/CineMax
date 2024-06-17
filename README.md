@@ -28,6 +28,7 @@ https://github.com/girraju/CineMax/assets/172365507/fce5e15c-57c2-4b52-84b3-63fd
 Cinemax is designed to provide users with easy access to a vast selection of movies and TV shows. With features that highlight the latest releases, top-rated films, and various genres, you can quickly find something to watch. Our user-friendly interface ensures a seamless browsing experience, whether you're on your computer, tablet, or smartphone.
 
 ## Getting Started
+# [www.cinemax.com](https://giriraju18.github.io/CINEMAX/index.html)
 
 To start exploring Cinemax, simply visit our website at [www.cinemax.com](https://giriraju18.github.io/CINEMAX/index.html). No registration is required for basic browsing. However, creating an account allows you to save favorites, create watchlists, and receive personalized recommendations.
 
