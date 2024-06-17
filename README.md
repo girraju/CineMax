@@ -23,6 +23,7 @@ Welcome to Cinemax, your ultimate destination for exploring the latest movies, t
 
 Cinemax is designed to provide users with easy access to a vast selection of movies and TV shows. With features that highlight the latest releases, top-rated films, and various genres, you can quickly find something to watch. Our user-friendly interface ensures a seamless browsing experience, whether you're on your computer, tablet, or smartphone.
 
+
 ## Features
 
 ### Latest Movies
