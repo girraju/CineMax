@@ -50,23 +50,27 @@ Located at the top of every page, the search bar allows you to quickly find spec
 ### Latest Movies
 Stay up-to-date with the newest releases in the film industry. Our "Latest Movies" section is regularly updated to bring you the freshest content.
 
-#### [www.latestmovies.com](https://giriraju18.github.io/CINEMAX/movie.html)
+## [www.LatestMovies.com](https://giriraju18.github.io/CINEMAX/movie.html)
 
 ![2024-06-17 (1)](https://github.com/girraju/CineMax/assets/172365507/ed746bf5-1117-4f85-9f5a-7a3b20671e50)
 
 ### Top Movies
 Discover the highest-rated movies according to critics and audiences. The "Top Movies" section showcases films that have garnered significant acclaim and popularity.
 
+## [www.TopRated.com](https://giriraju18.github.io/CINEMAX/trending.html)
+
 ### TV Shows
 Explore a diverse range of TV shows, from trending series to timeless classics. This section provides detailed information and recommendations to enhance your viewing experience.
+
+## [www.TvShows.com](https://giriraju18.github.io/CINEMAX/series.html)
 
 ### Genres
 Browse through a variety of genres to find movies and TV shows that match your interests. From action and adventure to romance and drama, our genre categorization helps you find exactly what you're looking for.
 
+## [www.genres.com](https://giriraju18.github.io/CINEMAX/genres.html)
+
 ### Search Bar
 Quickly locate specific movies or TV shows using our powerful search bar. Simply enter a title, actor, director, or keyword to find your desired content.
-
-
 
 ## Support
 
