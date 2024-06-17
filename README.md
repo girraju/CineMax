@@ -1,5 +1,4 @@
 # Cinemax
-https://github.com/girraju/CineMax/assets/172365507/6bf516c5-1b2d-4db9-8612-308662fa606c
 
 Welcome to Cinemax, your ultimate destination for exploring the latest movies, top-rated films, popular TV shows, and a wide array of genres. Whether you are a casual viewer or a cinephile, Cinemax offers an extensive collection to satisfy your entertainment cravings. Below is a comprehensive guide to help you navigate and make the most of your Cinemax experience.
 
@@ -23,6 +22,10 @@ Welcome to Cinemax, your ultimate destination for exploring the latest movies, t
 ## Introduction
 
 Cinemax is designed to provide users with easy access to a vast selection of movies and TV shows. With features that highlight the latest releases, top-rated films, and various genres, you can quickly find something to watch. Our user-friendly interface ensures a seamless browsing experience, whether you're on your computer, tablet, or smartphone.
+
+## Demo Video
+
+https://github.com/girraju/CineMax/assets/172365507/6bf516c5-1b2d-4db9-8612-308662fa606c
 
 ## Features
 
