@@ -2,9 +2,9 @@
 
 Welcome to Cinemax, your ultimate destination for exploring the latest movies, top-rated films, popular TV shows, and a wide array of genres. Whether you are a casual viewer or a cinephile, Cinemax offers an extensive collection to satisfy your entertainment cravings. Below is a comprehensive guide to help you navigate and make the most of your Cinemax experience.
 
-![Capture3](https://github.com/girraju/CineMax/assets/172365507/d2f12cf9-c9bc-45fd-9bdb-8b7585b10645)
+## Demo Video
 
-
+https://github.com/girraju/CineMax/assets/172365507/fce5e15c-57c2-4b52-84b3-63fdfcdc40c5
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -31,9 +31,8 @@ Cinemax is designed to provide users with easy access to a vast selection of mov
 
 To start exploring Cinemax, simply visit our website at [www.cinemax.com](http://www.cinemax.com). No registration is required for basic browsing. However, creating an account allows you to save favorites, create watchlists, and receive personalized recommendations.
 
-## Demo Video
+![2024-06-17 (1)](https://github.com/girraju/CineMax/assets/172365507/0423d8b7-8562-4acf-af52-519e4f55cdcb)
 
-https://github.com/girraju/CineMax/assets/172365507/fce5e15c-57c2-4b52-84b3-63fdfcdc40c5
 
 ## How to Use
 
@@ -45,6 +44,7 @@ Click on any movie or TV show thumbnail to view detailed information, including 
 
 ### Using the Search Bar
 Located at the top of every page, the search bar allows you to quickly find specific content. Type in your query and press enter to see the results. Filter options are available to refine your search by genre, release year, and more.
+
 ## Features
 
 ### Latest Movies
