@@ -35,14 +35,14 @@ https://github.com/girraju/CineMax/assets/172365507/efcc78a0-b7da-45e5-b781-4dbb
 ### Navigating the Homepage
 The homepage features a dynamic layout with sections dedicated to the latest movies, top-rated films, popular TV shows, and genres. Use the navigation menu at the top of the page to quickly jump to any section.
 
-![home](https://github.com/girraju/CineMax/assets/172365507/93854369-3ae1-40aa-80df-a50c7c90a258)
-
-
 ### Exploring Movies and TV Shows
 Click on any movie or TV show thumbnail to view detailed information, including a synopsis, cast and crew details, ratings, and reviews. You can also watch trailers and find similar recommendations.
 
 ### Using the Search Bar
 Located at the top of every page, the search bar allows you to quickly find specific content. Type in your query and press enter to see the results. Filter options are available to refine your search by genre, release year, and more.
+
+![2024-06-17 (12)](https://github.com/girraju/CineMax/assets/172365507/b4c5f5e7-5ec2-43cc-97ee-5add54c993fe)
+
 
 ## Features
 
