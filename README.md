@@ -35,7 +35,7 @@ https://github.com/girraju/CineMax/assets/172365507/efcc78a0-b7da-45e5-b781-4dbb
 ### Navigating the Homepage
 The homepage features a dynamic layout with sections dedicated to the latest movies, top-rated films, popular TV shows, and genres. Use the navigation menu at the top of the page to quickly jump to any section.
 
-![2024-06-17](https://github.com/girraju/CineMax/assets/172365507/9d8f555e-b74a-4145-bf64-ccb593bbf794)
+![home](https://github.com/girraju/CineMax/assets/172365507/93854369-3ae1-40aa-80df-a50c7c90a258)
 
 
 ### Exploring Movies and TV Shows
