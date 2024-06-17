@@ -1,23 +1,20 @@
-# Cinemax
-
-![Capture](https://github.com/girraju/CineMax/assets/172365507/aad7a558-838d-46a1-86af-d0b989c18c74)
-
+# ![Capture](https://github.com/girraju/CineMax/assets/172365507/aad7a558-838d-46a1-86af-d0b989c18c74)
 
 Welcome to Cinemax, your ultimate destination for exploring the latest movies, top-rated films, popular TV shows, and a wide array of genres. Whether you are a casual viewer or a cinephile, Cinemax offers an extensive collection to satisfy your entertainment cravings. Below is a comprehensive guide to help you navigate and make the most of your Cinemax experience.
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Features](#features)
+2. [Getting Started](#getting-started)
+3. [How to Use](#how-to-use)
+    - [Navigating the Homepage](#navigating-the-homepage)
+    - [Exploring Movies and TV Shows](#exploring-movies-and-tv-shows)
+    - [Using the Search Bar](#using-the-search-bar)
+4. [Features](#features)
     - [Latest Movies](#latest-movies)
     - [Top Movies](#top-movies)
     - [TV Shows](#tv-shows)
     - [Genres](#genres)
     - [Search Bar](#search-bar)
-3. [Getting Started](#getting-started)
-4. [How to Use](#how-to-use)
-    - [Navigating the Homepage](#navigating-the-homepage)
-    - [Exploring Movies and TV Shows](#exploring-movies-and-tv-shows)
-    - [Using the Search Bar](#using-the-search-bar)
 5. [Support](#support)
 6. [Contributing](#contributing)
 7. [License](#license)
@@ -26,9 +23,20 @@ Welcome to Cinemax, your ultimate destination for exploring the latest movies, t
 
 Cinemax is designed to provide users with easy access to a vast selection of movies and TV shows. With features that highlight the latest releases, top-rated films, and various genres, you can quickly find something to watch. Our user-friendly interface ensures a seamless browsing experience, whether you're on your computer, tablet, or smartphone.
 
-## Demo Video
+## Getting Started
 
-https://github.com/girraju/CineMax/assets/172365507/6bf516c5-1b2d-4db9-8612-308662fa606c
+To start exploring Cinemax, simply visit our website at [www.cinemax.com](http://www.cinemax.com). No registration is required for basic browsing. However, creating an account allows you to save favorites, create watchlists, and receive personalized recommendations.
+
+## How to Use
+
+### Navigating the Homepage
+The homepage features a dynamic layout with sections dedicated to the latest movies, top-rated films, popular TV shows, and genres. Use the navigation menu at the top of the page to quickly jump to any section.
+
+### Exploring Movies and TV Shows
+Click on any movie or TV show thumbnail to view detailed information, including a synopsis, cast and crew details, ratings, and reviews. You can also watch trailers and find similar recommendations.
+
+### Using the Search Bar
+Located at the top of every page, the search bar allows you to quickly find specific content. Type in your query and press enter to see the results. Filter options are available to refine your search by genre, release year, and more.
 
 ## Features
 
@@ -47,20 +55,7 @@ Browse through a variety of genres to find movies and TV shows that match your i
 ### Search Bar
 Quickly locate specific movies or TV shows using our powerful search bar. Simply enter a title, actor, director, or keyword to find your desired content.
 
-## Getting Started
 
-To start exploring Cinemax, simply visit our website at [www.cinemax.com](http://www.cinemax.com). No registration is required for basic browsing. However, creating an account allows you to save favorites, create watchlists, and receive personalized recommendations.
-
-## How to Use
-
-### Navigating the Homepage
-The homepage features a dynamic layout with sections dedicated to the latest movies, top-rated films, popular TV shows, and genres. Use the navigation menu at the top of the page to quickly jump to any section.
-
-### Exploring Movies and TV Shows
-Click on any movie or TV show thumbnail to view detailed information, including a synopsis, cast and crew details, ratings, and reviews. You can also watch trailers and find similar recommendations.
-
-### Using the Search Bar
-Located at the top of every page, the search bar allows you to quickly find specific content. Type in your query and press enter to see the results. Filter options are available to refine your search by genre, release year, and more.
 
 ## Support
 
