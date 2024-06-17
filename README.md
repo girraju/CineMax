@@ -50,10 +50,9 @@ Located at the top of every page, the search bar allows you to quickly find spec
 ### Latest Movies
 Stay up-to-date with the newest releases in the film industry. Our "Latest Movies" section is regularly updated to bring you the freshest content.
 
+ [www.CINEMAX/latestmovies.com](https://giriraju18.github.io/CINEMAX/movie.html)
+
 ![2024-06-17 (1)](https://github.com/girraju/CineMax/assets/172365507/ed746bf5-1117-4f85-9f5a-7a3b20671e50)
-
- [www.cinemax/homepage.com](https://giriraju18.github.io/CINEMAX/movie.html)
-
 
 ### Top Movies
 Discover the highest-rated movies according to critics and audiences. The "Top Movies" section showcases films that have garnered significant acclaim and popularity.
