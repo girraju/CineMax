@@ -1,9 +1,5 @@
 # ![Capture](https://github.com/girraju/CineMax/assets/172365507/aad7a558-838d-46a1-86af-d0b989c18c74)
 
-<p align="center">
-  <img src="Capture.png" alt="Cinemax Logo" width="300">
-</p>
-
 Welcome to Cinemax, your ultimate destination for exploring the latest movies, top-rated films, popular TV shows, and a wide array of genres. Whether you are a casual viewer or a cinephile, Cinemax offers an extensive collection to satisfy your entertainment cravings. Below is a comprehensive guide to help you navigate and make the most of your Cinemax experience.
 
 ## Table of Contents
