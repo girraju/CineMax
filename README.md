@@ -31,8 +31,7 @@ Cinemax is designed to provide users with easy access to a vast selection of mov
 
 To start exploring Cinemax, simply visit our website at [www.cinemax.com](http://www.cinemax.com). No registration is required for basic browsing. However, creating an account allows you to save favorites, create watchlists, and receive personalized recommendations.
 
-![2024-06-17 (1)](https://github.com/girraju/CineMax/assets/172365507/0423d8b7-8562-4acf-af52-519e4f55cdcb)
-
+![Capture3](https://github.com/girraju/CineMax/assets/172365507/161ca908-220a-4c7e-a6f1-4e361cce3cbf)
 
 ## How to Use
 
