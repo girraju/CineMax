@@ -45,14 +45,11 @@ Click on any movie or TV show thumbnail to view detailed information, including 
 
 ### Using the Search Bar
 Located at the top of every page, the search bar allows you to quickly find specific content. Type in your query and press enter to see the results. Filter options are available to refine your search by genre, release year, and more.
-
-![2024-06-17 (12)](https://github.com/girraju/CineMax/assets/172365507/b4c5f5e7-5ec2-43cc-97ee-5add54c993fe)
-
-
 ## Features
 
 ### Latest Movies
 Stay up-to-date with the newest releases in the film industry. Our "Latest Movies" section is regularly updated to bring you the freshest content.
+![2024-06-17 (1)](https://github.com/girraju/CineMax/assets/172365507/ed746bf5-1117-4f85-9f5a-7a3b20671e50)
 
 ### Top Movies
 Discover the highest-rated movies according to critics and audiences. The "Top Movies" section showcases films that have garnered significant acclaim and popularity.
