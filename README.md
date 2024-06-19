@@ -1,6 +1,6 @@
 # CineMax
 
-Welcome to Cinemax, your ultimate destination for exploring the latest movies, top-rated films, popular TV shows, and a wide array of genres. Whether you are a casual viewer or a cinephile, Cinemax offers an extensive collection to satisfy your entertainment cravings. Below is a comprehensive guide to help you navigate and make the most of your Cinemax experience.
+Welcome to CineMax, your ultimate destination for exploring the latest movies, top-rated films, popular TV shows, and a wide array of genres. Whether you are a casual viewer or a cinephile, CineMax offers an extensive collection to satisfy your entertainment cravings. Below is a comprehensive guide to help you navigate and make the most of your CineMax experience.
 
 ## Demo Video
 
@@ -25,9 +25,10 @@ https://github.com/girraju/CineMax/assets/172365507/fce5e15c-57c2-4b52-84b3-63fd
 
 ## Introduction
 
-Cinemax is designed to provide users with easy access to a vast selection of movies and TV shows. With features that highlight the latest releases, top-rated films, and various genres, you can quickly find something to watch. Our user-friendly interface ensures a seamless browsing experience, whether you're on your computer, tablet, or smartphone.
+CineMax is designed to provide users with easy access to a vast selection of movies and TV shows. With features that highlight the latest releases, top-rated films, and various genres, you can quickly find something to watch. Our user-friendly interface ensures a seamless browsing experience, whether you're on your computer, tablet, or smartphone. CineMax leverages the power of The Movie Database (TMDb) API to bring you up-to-date and comprehensive information on your favorite content.
 
 ## Getting Started
+
 # [www.cinemax.com](https://giriraju18.github.io/CINEMAX/index.html)
 
 To start exploring Cinemax, simply visit our website at [www.cinemax.com](https://giriraju18.github.io/CINEMAX/index.html). No registration is required for basic browsing. However, creating an account allows you to save favorites, create watchlists, and receive personalized recommendations.
