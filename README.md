@@ -1,4 +1,5 @@
-[Capture](https://github.com/girraju/CineMax/assets/172365507/f9b3e1c5-4373-4730-950a-b19918520da2)
+# ![Capture](https://github.com/girraju/CineMax/assets/172365507/d88c66c0-d0a1-4174-81c6-21efd258db0d)
+
 
 
 Welcome to CineMax, your ultimate destination for exploring the latest movies, top-rated films, popular TV shows, and a wide array of genres. Whether you are a casual viewer or a cinephile, CineMax offers an extensive collection to satisfy your entertainment cravings. Below is a comprehensive guide to help you navigate and make the most of your CineMax experience.
